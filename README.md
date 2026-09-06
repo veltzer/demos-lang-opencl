@@ -1,2 +1,2 @@
-# demos-opencl
+# demos-lang-opencl
 Demos for OpenCL
